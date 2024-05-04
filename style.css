@@ -1,0 +1,18 @@
+body {
+  background-image: linear-gradient(navy, chartreuse);
+  background-attachment: fixed;
+  color: white;
+  font-family: 'Courier New', monospace;
+}
+.title {
+  padding: 10px;
+  background-color: blue;
+  text-align: center;
+}
+
+a.idk {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  text-align: center;
+}
