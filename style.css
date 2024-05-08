@@ -1,18 +1,23 @@
 body {
-  background-image: linear-gradient(navy, chartreuse);
+  background-color: grey;
   background-attachment: fixed;
   color: white;
   font-family: 'Courier New', monospace;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 .title {
-  padding: 10px;
+  padding: 5px;
   background-color: blue;
   text-align: center;
 }
 
-a.idk {
+.categoryLink {
+  text-align: center;
+  width: 100%;
   color: white;
   text-decoration: none;
-  font-size: 20px;
-  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 25px;
 }
